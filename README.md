@@ -14,23 +14,6 @@
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&link=https://www.linkedin.com/in/mohamedgnana/)](https://www.linkedin.com/in/mohamedgnana/) 
 
-## Professional Experience
-
-### Tahaluf Al Emarat Technical Solutions
-#### Mid-Level Software Engineer | Sep 2023 – Present
-
-- Led code reviews, optimized application performance, and mentored developers.
-- Spearheaded the development and delivery of Order Management and Procurement.
-- Achieved significant performance improvements and implemented automated solutions.
-
-### Fortteck
-#### Senior Software Engineer | Jun 2023 – Sep 2023
-- Led refactoring efforts and designed complex software solutions.
-- Integrated projects with Azure DevOps, SonarCloud, and Elasticsearch.
-#### Full Stack Software Engineer | Jul 2022 – Jun 2023
-- Led development for Ticket Management System and CI/CD processes.
-- Integrated with Wipay payment service.
-
 ## Technical Skills & Expertise
 
 ### Programming Languages
@@ -40,6 +23,7 @@
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Mohamed-Gnana)
 [![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://github.com/Mohamed-Gnana)
 [![](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/Mohamed-Gnana)
+[![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/Mohamed-Gnana)
 
 ### Frameworks & Libraries
 [![](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/Mohamed-Gnana)
@@ -73,6 +57,23 @@
 [![](https://img.shields.io/badge/Problem-solving_Skills-4682B4?style=for-the-badge)](https://github.com/Mohamed-Gnana)
 [![](https://img.shields.io/badge/Communication-32CD32?style=for-the-badge)](https://github.com/Mohamed-Gnana)
 
+
+## Professional Experience
+
+### Tahaluf Al Emarat Technical Solutions
+#### Mid-Level Software Engineer | Sep 2023 – Present
+
+- Led code reviews, optimized application performance, and mentored developers.
+- Spearheaded the development and delivery of Order Management and Procurement.
+- Achieved significant performance improvements and implemented automated solutions.
+
+### Fortteck
+#### Senior Software Engineer | Jun 2023 – Sep 2023
+- Led refactoring efforts and designed complex software solutions.
+- Integrated projects with Azure DevOps, SonarCloud, and Elasticsearch.
+#### Full Stack Software Engineer | Jul 2022 – Jun 2023
+- Led development for Ticket Management System and CI/CD processes.
+- Integrated with Wipay payment service.
 
 ## Education
 
