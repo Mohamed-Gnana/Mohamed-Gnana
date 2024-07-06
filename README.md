@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with [Good ideas for open-source projects]
 - 💬 Ask me about [C#, .NET, Databases, Architecture]
 - 📫 How to reach me: [mohamedgnana6699@gmail.com]
-- ⚡ Fun fact: [Love noting more than eating, sleeping, working]
+- ⚡ Fun fact: [Love nothing more than eating, sleeping, working]
 
 ## Social Networks 👨‍🦲
 
